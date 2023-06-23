@@ -1,0 +1,20 @@
+body {
+  background: #eee;
+}
+
+.App {
+  font-family: Jura, sans-serif;
+  text-align: center;
+}
+
+.Card {
+  background: #333;
+  color: whitesmoke;
+  width: 600px;
+  margin: auto;
+  padding: 1em;
+}
+
+.coding-image {
+  width: 200px;
+}
